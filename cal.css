@@ -1,0 +1,68 @@
+
+.calsi{
+    height: 400px;
+    width: 400px;
+    background-color:#213555;
+    display: flex;
+    justify-content: space-evenly;
+    flex-wrap: wrap;
+    align-items: center;
+    border-radius: 10px;
+    }
+
+.screen{
+    height:50px;
+    width: 370px;
+    background-color: aliceblue;
+    margin-top: 5px;
+    border-radius: 10px;
+    border: 2px solid black;
+
+    
+
+}
+
+.section{
+    height:330px;
+    width:400px;
+    display: flex;
+    justify-content: space-evenly;
+    flex-wrap: wrap;
+    align-items: center;
+
+
+}
+.but {
+    height:40px;
+    width:67px;
+    background-color:#4F709C;
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    color: white;
+    font-weight: 700;
+    font-size: 17px;
+    border-radius: 10px;
+    border: 2px solid black;
+
+}
+
+
+.but-me{
+    background-color:#E5D283;
+    height:40px;
+    width:67px;
+    color: white;
+    font-weight: 700;
+    font-size: 17px;
+    border-radius: 10px;
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    border: 2px solid black;
+}
+
+.cont{
+    height: 400px;
+    width: 400px;
+}
