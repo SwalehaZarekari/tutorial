@@ -90,10 +90,24 @@ h3{
 .hero{
     height: 600px;
     width: 100%;
-    background-color: blue;
+    color: white;
 }
 .hero-1{
-    height: 150px;
+    height: 200px;
     width: 100%;
-    background-color: cadetblue;
+    display: flex;
+    align-items: center;
+    padding-left: 200px;
+}
+
+.logo{
+    font-size: 3rem;
+}
+.some{
+    padding-left: 50px;
+    width: 530px;
+}
+.some h2{
+    font-size: 2rem;
+    
 }
