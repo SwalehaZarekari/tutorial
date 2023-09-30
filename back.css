@@ -1,0 +1,85 @@
+*{
+    margin:0;
+    padding: 0;
+text-decoration: none;
+}
+.page{
+    height: 900px;;
+    width: 100% ;
+    background-color:lightgoldenrodyellow;
+    border: 2px solid black;
+
+}
+.heading{
+    width: 100%;
+    height: 70px;
+    display: flex;
+    justify-content: center;
+
+}
+
+h1{
+    font-size:4rem;
+    font-weight:900;
+    background-image:url(need.jpg) ;
+    background-size: cover;
+    background-position: center;
+    background-clip: text;
+    -webkit-background-clip: text;
+    color: transparent;
+
+}
+h2{
+    text-align: center;
+}
+
+.hero{
+    height: 700px;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.img{
+    height: 670px;
+    width: 70%;
+    background-size: cover;
+    display: flex;
+    justify-content: center;
+    align-items: end;
+    box-shadow: 10px 10px 20px black; /* box shadow diya to box ke aaju baju shadow aati hai (x axis yaxis kitna dark light and colour*/
+}
+.cap{
+    height: 50px;
+    width: 100%;
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+}
+
+.cap-1 {
+    height: 50px;
+    width:200px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: white;
+}
+h3{
+    padding-left: 10px;
+    color: white;
+
+
+}
+
+footer{
+    height: 100px;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.last{
+    width: 70%;
+}
